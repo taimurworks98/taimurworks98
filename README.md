@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taimurworks98
-- 👀 I’m interested in MERN stack devolopment
-- 💞️ I’m looking to collaborate on MERN and React.js projects
+- 👀 I’m interested in Blockchain and Artificial Intelligence
+- 💞️ I’m looking to collaborate on Blockchain and Artificial Intelligence projects
 - 📫 How to reach me taimurworks1998@gmail.com
 
 <!---
